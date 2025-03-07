@@ -20,8 +20,6 @@
     damage:
       types:
         Slash: 8
-    heavyRateModifier: 1.25
-    heavyDamageBaseModifier: 1.2
     maxTargets: 3
     angle: 40
     soundHit:
