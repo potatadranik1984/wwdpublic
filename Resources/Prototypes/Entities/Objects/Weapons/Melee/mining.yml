@@ -164,9 +164,6 @@
         Blunt: 13 # Lavaland Change: no damage when unwielded
         Slash: 7
     bluntStaminaDamageFactor: 2.0
-    heavyRateModifier: 0.75
-    heavyDamageBaseModifier: 1.2
-    heavyStaminaCost: 7.5
     angle: 90 # WWDP
     soundHit:
       collection: MetalThud
@@ -212,8 +209,6 @@
     damage:
       types:
         Slash: 9
-    heavyRateModifier: 0.9
-    heavyDamageBaseModifier: 1.2
     maxTargets: 2
     angle: 20
   - type: DamageOtherOnHit
