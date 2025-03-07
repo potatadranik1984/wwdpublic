@@ -22,9 +22,6 @@
         Slash: 2
         Blunt: 2
         Structural: 4
-    heavyRateModifier: 2
-    heavyDamageBaseModifier: 1.0
-    heavyStaminaCost: 15
     maxTargets: 20
     angle: 160
     soundHit:
